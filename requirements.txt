@@ -1,0 +1,13 @@
+langchain_openai
+langchain_core
+python-dotenv
+streamlit
+langchain_community
+langserve
+fastapi # for swagger implementation
+uvicorn
+sse_starlette
+bs4
+pypdf
+chromadb
+faiss-cpu #Faiss is a library — developed by Facebook AI — that enables efficient similarity search. So, given a set of vectors, we can index them using Faiss — then using another vector (the query vector), we search for the most similar vectors within the index.
